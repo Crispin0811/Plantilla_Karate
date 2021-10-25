@@ -1,0 +1,9 @@
+{
+	"firstName": "#string",
+	"lastName": "#string",
+	"userStatus": #number,
+	"phone": "#string",
+	"id": #number,
+	"email": "#string",
+	"username": "#string"
+}
